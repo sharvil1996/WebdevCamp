@@ -1,0 +1,12 @@
+git --version
+
+
+git add .  - Add all the files
+
+git commit -m "Added Hello".
+
+git config --global user.name ""
+git config --global user.email ""
+
+
+git status
